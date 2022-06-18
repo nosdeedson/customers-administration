@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCustomerDetailResponse
+	xmlns="http://ejs.com.br"
+	xsi:schemaLocation="http://ejs.com.br customer-information.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CustomerDetail>
+		<id>123</id>
+		<email>jose@email.com</email>
+		<name>jose</name>
+		<phone>12312312</phone>
+	</CustomerDetail>
+</GetCustomerDetailResponse>
